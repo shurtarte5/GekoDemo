@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GekoDemo</string>
+    <string name="prefs_file">com.hurtarte.gekodemo.PREFERENCE_FILE_KEY</string>
+
+</resources>
